@@ -15,6 +15,3 @@ collections:
           - label: "Name"
             name: "name"
             width: "string"
-          - label: "Link"
-            name: "link"
-            width: "string"
