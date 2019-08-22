@@ -1,0 +1,5 @@
+backend:
+    name: github
+    repo: rainshadedesign/jekyll-netlify-test
+
+media_folder: "assets/uploads"
